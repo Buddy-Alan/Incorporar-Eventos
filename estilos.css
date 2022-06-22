@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+
+#catalogo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.changuitoProductosTitulo {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+}
+
+button {
+    background-color: #c1e1f7;
+}
+
+.botonesProductos {
+    margin: 20px;
+}
+
+#canasta {
+    background-color: azure;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
